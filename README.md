@@ -69,7 +69,7 @@ That's not the end of it yet though! To get accepted, your document will also ne
 
 **First and foremost, all accepted documents must be legibly written and without grammatical and/or spelling errors!**
 
-**Second, all documents must have content rated less than or equal to Teen Fiction, with respect to Canada/United States laws. This is a more flexible ruling and can be bent if the content is valid artistically, and feels required. Any distastefully adult content will not be accepted. This includes both extreme levels of gore and sexual content.
+**Second, all documents must have content rated less than or equal to Teen Fiction, with respect to Canada/United States laws. This is a more flexible ruling and can be bent if the content is valid artistically, and feels required. Any distastefully adult content will not be accepted. This includes both extreme levels of gore and sexual content.**
 
 **Third, the story must be to some degree correct. This is the most flexible of rules.**
 ### Note to editors: What does 'correct' mean?
