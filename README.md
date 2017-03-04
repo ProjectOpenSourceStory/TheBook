@@ -59,8 +59,10 @@ Second, your Story must start on page 2 of the document, and must start off with
 
 **All Documents must be double spaced**
 
+**All stories must have a file called 'README.md' in their folder. Copy the 'Template.md' file from the root and rename it to 'Readme.md', and fill out all of its information.
+
 ### Step 5: Get reviewed!
-Once you feel like you have successfully completed your story and are ready to show it to the world (and are 100% certain you never editted anyone else's documents) follow the github guide on [forking and issuing pull requests](https://guides.github.com/activities/forking/) and Issue a Pull Request! For your Pull Request's info, copy the 'Pull Request Template' document located in the root folder, and fill in all the information there.
+Once you feel like you have successfully completed your story and are ready to show it to the world (and are 100% certain you never editted anyone else's documents) follow the github guide on [forking and issuing pull requests](https://guides.github.com/activities/forking/) and Issue a Pull Request! For your Pull Request's info, copy the 'Pull Request Template' document located in the root folder, and fill in all the information there. (This should be the exact same as your README.md file in your folder, so you can just copy that)
 
 That's not the end of it yet though! To get accepted, your document will also need to satisfy the following criteria:
 
