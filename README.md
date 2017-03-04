@@ -127,7 +127,7 @@ When compiled into the pdf, your folder will have all its contents compressed in
 
 Furthermore, if your numbers extend to 10 or more, alphabetically '10' may come before '1' sometimes. To prevent this, prepend your numbers with all their spaces.
 
-For example, instead of name your files '1' '2' '3'....'11' '12'...etc, instead go with '01' '02' '03' ...'11' '12'
+For example, instead of naming your files '1' '2' '3'....'11' '12'...etc, instead go with '01' '02' '03' ...'11' '12'
 Doing so will always keep your files in the correct order.
 
 ###Editting on your computer locally
