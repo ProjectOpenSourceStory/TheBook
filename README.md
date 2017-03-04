@@ -49,7 +49,8 @@ First off, the first page of your document **must** have, and **only** have, the
     Free Documentation License".
 
 This is the [GNU Free Documentation License](https://www.gnu.org/licenses/fdl.html) and must be on your document to get accepted.
-**Make sure you replace 'YEAR' and 'YOUR NAME' with the current year of writing and your full name!
+
+**Make sure you replace 'YEAR' and 'YOUR NAME' with the current year of writing and your full name!**
 
 Second, your Story must start on page 2 of the document, and must start off with a Title. Styling outside of this is up to you however...
 
