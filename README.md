@@ -101,6 +101,8 @@ We here at POSS will keep an eye on who has been helping a lot with editting, an
 
 You're welcome to decline the offer though, we won't be mad. Once extended though it's always an open offer, so if you want to try it out, we're always interested!
 
+Any lead editors who abuse their privileges will have them removed, don't be naughty!
+
 ##Modifying
 This is the core to what makes POSS special as a story project. Instead of writing your own story, you are also completely welcome to change, modify, and update any currently existing stories as well. Simply follow all of the steps listed above in creating a story, but instead of creating a new folder, go into the folder of the story you wish to edit and... edit away!
 
@@ -110,11 +112,11 @@ That's right, as all submissions in POSS are under the GNU Free Documentation Li
 
 ###Rule number two: You may only edit one story at a time. If you wish to edit a second story, make an entire new second fork for that one. Any given branch should only ever have a single story editted in it. Submissions with multiple stories editted will be denied.
 
-###Rule number two: You cannot modify the GNU license in the original story. Instead, add a new line just below the license with the text "Editted by YOURNAME YEAR", if some of these already exist, just add yours beneath it.
+###Rule number three: You cannot modify the GNU license in the original story. Instead, add a new line just below the license with the text "Editted by YOURNAME YEAR", if some of these already exist, just add yours beneath it.
 
 If for some reason enough of these edits exist that cause the GNU license to enter the second page, the license can be simplifed to amalgamate the names by year. This will be at the discretion of the Lead Editors.
 
-###Rule number three: All editting rules for text formatting in submitting stories still apply.
+###Rule number four: All editting rules for text formatting in submitting stories still apply.
 
 ###"what if I don't want people to be able to edit my work?"
 Unfortunately this is not in the spirit of the POSS. Everything in the project is free game and, as long as the edits pass and are considered in the spirit of the original work, they can be accepted.
