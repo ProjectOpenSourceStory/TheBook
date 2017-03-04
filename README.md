@@ -54,7 +54,9 @@ This is the [GNU Free Documentation License](https://www.gnu.org/licenses/fdl.ht
 Second, your Story must start on page 2 of the document, and must start off with a Title. Styling outside of this is up to you however...
 
 **All Documents must be written in Times New Roman**
+
 **All Documents must use 12 point font**
+
 **All Documents must be double spaced**
 
 ### Step 5: Get reviewed!
