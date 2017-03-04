@@ -27,6 +27,15 @@ Once you successfully fork the project into your own account, you can make your 
 ### Step 3: Create!
 In the Stories folder, create a new folder with the name of your story. This will be your spot to work! You can do whatever you want inside your story's folder, but if you want it to get successfully accepted when submitted, there will be several things you need to do to get accepted.
 
+To do this, click the 'Create new file' button to start making a file in the Stories folder. Then, in the box that says 'Name your file...' start type the title of your book, followed by a '/', this will create the folder. NExt type the new of the file for your story itself, "Chapter 1" for example. Finally add a .md to the end.
+
+So if you were making a story called "MyStory", you'd type "MyStory/Chapter 1.md"
+
+There you go, you can now begin! You can save your document by scrolling to the bottom and filling out the form for your commit (no need to be terribly verbose here, what you type here just lets you keep track of your commits) and hit the "Commit new file" button!
+
+### Editting a saved file
+To edit a saved file, open it up in github (you'll now see your folder you made) and click on the name of the file. Now you'll be able to see it, but to actually edit you'll need to click on the small pencil icon in the top right of the window. This will bring you back to the editting page. Follow the same process as as creating a new file, except this time the button at the bottom says "Commit change" instead of "Commit new file"
+
 ### Step 4: Rules!
 First off, the first page of your document MUST have, and only have, the following text put onto it:
 
