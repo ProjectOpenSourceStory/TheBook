@@ -52,7 +52,7 @@ This is the [GNU Free Documentation License](https://www.gnu.org/licenses/fdl.ht
 
 **Make sure you replace 'YEAR' and 'YOUR NAME' with the current year of writing and your full name!**
 
-Second, your Story must start on page 2 of the document, and must start off with a Title. Styling outside of this is up to you however...
+Second, your Story must start on page 2 of the document, and must start off with a Title. Styling outside of this is up to you however. If editting through the GitHub website, just add a decent amount of new lines after the License before starting.
 
 **All Documents must be written in Times New Roman**
 
